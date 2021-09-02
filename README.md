@@ -7,10 +7,11 @@
 | Project                                                      | Contents                    |
 | ------------------------------------------------------------ | --------------------------- |
 | E1. 가위바위보 분류기 [link](https://github.com/Ki8888/SSAC_E/blob/main/E-NODE1%20R_C_P.ipynb) | Image Classification        |
-| E2. 손글씨, 와인, 유방암 분류기 [link](https://github.com/Ki8888/SSAC_E/blob/main/E-NODE2%20EX.ipynb) | Classification              |
-| E3. 고양이 수염 스티커 붙이기 [link](https://github.com/Ki8888/SSAC_E/blob/main/E-NODE3%20camera%20app_ex.ipynb) | Face Detection              |
-| E4. 영화리뷰 감성분석 [link](https://github.com/Ki8888/SSAC_E/blob/main/E-NODE4%20movie_ex.ipynb) | Text Classification         |
-| E6.  노래가사 생성 [link](https://github.com/Ki8888/SSAC_E/blob/main/E-NODE6%20songwriter_ex.ipynb) | Text Generate               |
+| E2. 손글씨, 와인, 유방암 분류기 [link](https://github.com/Ki8888/SSAC_E/tree/main/E2) | Classification              |
+| E3. 고양이 수염 스티커 붙이기 [link](https://github.com/Ki8888/SSAC_E/tree/main/E3) | Face Detection              |
+| E4. 영화리뷰 감성분석 [link](https://github.com/Ki8888/SSAC_E/tree/main/E4) | Text Classification         |
+| E5. 사람이 말하는 단어를 구분해보기                          | Sound Classification        |
+| E6.  노래가사 생성 [link](https://github.com/Ki8888/SSAC_E/tree/main/E6) | Text Generate               |
 | E7. 나와 닮은 연예인 찾기 [link](https://github.com/Ki8888/SSAC_E/blob/main/ENODE7.%20face_ex.ipynb) | Face Recognition, embedding |
 | E8. Movielens영화추천 [link](https://github.com/Ki8888/SSAC_E/blob/main/E-NODE8%20movie_ex.ipynb) | Recommender System          |
 | E9. kaggle경진대회 따라해보기(집값예측) [link](https://github.com/Ki8888/SSAC_E/blob/main/E-NODE9%20kaggle_ex.ipynb) | Kaggle                      |
